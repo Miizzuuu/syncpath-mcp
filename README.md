@@ -4,7 +4,7 @@
 
 MCP Server ini memberikan akses operasi CRUD ke AI supaya bisa manage projects dan tasks di aplikasi Syncpath. MCP akan connect langsung ke database NeonDB PostgreSQL milik anda.
 
-**Disclaimer:** > <sub>Tidak harus menggunakan Claude Desktop dan NeonDB PostgresSQL, anda dapat menggunakan Client dan Service lain. Claude Desktop dan NeonDB PostgreSQL hanya sebagai client dan service yang digunakan oleh tim Syncpath sebagai contoh.</sub>
+**Disclaimer:** <sub>Tidak harus menggunakan Claude Desktop dan NeonDB PostgresSQL, anda dapat menggunakan Client dan Service lain. Claude Desktop dan NeonDB PostgreSQL hanya sebagai client dan service yang digunakan oleh tim Syncpath sebagai contoh.</sub>
 
 
 ## Tools

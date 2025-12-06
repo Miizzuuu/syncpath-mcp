@@ -1,4 +1,4 @@
-# SyncPath MCP Server
+# Syncpath MCP Server
 
 ## Tujuan
 
